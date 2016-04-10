@@ -7,6 +7,7 @@ public class MyFirst {
 	private int d;
 
 	private int c;
+	private int e;
 
 	String st;
 }
